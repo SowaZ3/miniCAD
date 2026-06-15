@@ -6,6 +6,11 @@
 
 miniCAD is a lightweight 2D drawing tool for building polylines and arcs with a simple CAD-style workflow. It focuses on fast editing, endpoint snapping, keyboard-assisted precision input, and SVG-based save/load.
 
+## Requirements
+
+- Embarcadero C++Builder
+- Windows
+
 ## Features
 
 - Draw line-based polylines.
