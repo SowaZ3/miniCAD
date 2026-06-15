@@ -1,0 +1,7 @@
+-rysowanie linii polilinia (po wcisnieciu shift lub wpisaniu długości blokada na 4 kierunki - góra, prawo, dół, lewo)
+-rysowanie łuków (początek - promień - koniec + blokada kierunków)
+-esc - finish, enter - continue
+-undo (ctrl+z) i redo (ctrl+y)
+-powiększanie i pomniejszanie obszaru roboczego, możliwość przesuwania obszaru środkowym przyciskiem myszy
+-przyciąganie do punktów końcowych odcinków i możliwość kontynuowania
+-zaznaczanie danych odcinków (poza obszarami przyciągania) i możliwość usunięcia (del)
